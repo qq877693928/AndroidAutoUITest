@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">app</string>
+    <string name="user_name">用户名</string>
+    <string name="user_email">用户邮箱</string>
+    <string name="password">密码</string>
+    <string name="button_login">Login</string>
+</resources>
